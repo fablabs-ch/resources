@@ -1,6 +1,6 @@
 # Digital resources of fablabs-ch
 
-<img src="./logo/bitmap/fablabs-ch-600.png" alt="fablabs-ch logo" height="200" />
+<img src="./logo/bitmaps/fablabs-ch-600.png" alt="fablabs-ch logo" height="200" />
 
 This repository contains some digital resources of fablabs-ch.
 

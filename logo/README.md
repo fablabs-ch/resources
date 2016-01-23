@@ -1,7 +1,7 @@
 # Logo
 
 The `fablabs-ch.svg` file is the reference logo in a vector graphics format. The
-images in the `bitmap` folder are exported from it at different scales in order
+images in the `bitmaps` folder are exported from it at different scales in order
 to be used/linked where vector graphics are not supported.
 
 ## Editing
