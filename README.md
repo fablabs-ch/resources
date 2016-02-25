@@ -7,3 +7,4 @@ This repository contains some digital resources of fablabs-ch.
 ## List of resources
 
 - [The fablabs-ch logo](./logo)
+- [Collection of links](https://github.com/fablabs-ch/resources/wiki/Links)
