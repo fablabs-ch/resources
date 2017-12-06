@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="boule_nue.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="602.2698"
+     inkscape:cy="586.88535"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4153"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.18556273;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 404.12162,123.89491 a 23.250526,24.052132 0 0 1 -23.25053,24.05213 23.250526,24.052132 0 0 1 -23.25052,-24.05213 23.250526,24.052132 0 0 1 23.25052,-24.052129 23.250526,24.052132 0 0 1 23.25053,24.052129 z M 651.06668,475.49808 A 270.19559,272.15942 0 0 1 380.87109,747.6575 270.19559,272.15942 0 0 1 110.67551,475.49808 270.19559,272.15942 0 0 1 380.87109,203.33865 270.19559,272.15942 0 0 1 651.06668,475.49808 Z M 380.87109,91.832031 c -18.50494,-4.03e-4 -33.50626,15.000919 -33.50586,33.505859 0.0145,11.40432 5.82881,22.01816 15.43165,28.16992 l -12.98183,0 c -3.92598,0 -6.73923,3.17724 -7.08594,7.08789 l -2.10216,23.71094 C 195.15339,204.38929 86.750378,328.64492 86.585938,475.49805 86.586247,638.02712 218.34202,769.78289 380.87109,769.7832 543.40017,769.7829 675.15594,638.02713 675.15625,475.49805 674.98304,328.6516 566.58218,204.40594 421.11523,184.32422 l -2.10216,-23.46575 c -0.3503,-3.91032 -3.16077,-7.00806 -7.08593,-7.08789 l -12.91933,-0.26277 c 9.57897,-6.16648 15.36832,-16.77772 15.36914,-28.16992 4e-4,-18.50494 -15.00092,-33.506262 -33.50586,-33.505859 z" />
+  </g>
+</svg>
